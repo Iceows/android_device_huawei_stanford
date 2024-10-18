@@ -28,5 +28,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
+# Consumer Ir
+BOARD_HAVE_IR := true
+
 # Call the proprietary setup
 $(call inherit-product, vendor/huawei/stanford/stanford-vendor.mk)
