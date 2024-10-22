@@ -1,5 +1,5 @@
 Cleaning output directory (./../../huawei/hi3660-common/../../../vendor/huawei/hi3660-common/proprietary)..
-Extracting 486 files in ./../../huawei/hi3660-common/proprietary-files.txt from ./dump/:
+Extracting 490 files in ./../../huawei/hi3660-common/proprietary-files.txt from ./dump/:
   - vendor/bin/hw/android.hardware.drm@1.1-service.widevine
   - vendor/lib/libwvhidl.so
     + Fixed up vendor/lib/libwvhidl.so
@@ -10,10 +10,14 @@ Extracting 486 files in ./../../huawei/hi3660-common/proprietary-files.txt from 
   - system/lib/libteec_client.so
   - system/lib/libteeclientjni.so
   - system/lib/libtuidaemon.so
+  - system/lib/vendor.huawei.hardware.libteec@1.0.so
+  - system/lib/vendor.huawei.hardware.libteec@2.0.so
   - system/lib64/libc_secshared.so
   - system/lib64/libteec_client.so
   - system/lib64/libteeclientjni.so
   - system/lib64/libtuidaemon.so
+  - system/lib64/vendor.huawei.hardware.libteec@1.0.so
+  - system/lib64/vendor.huawei.hardware.libteec@2.0.so
   - vendor/bin/32e6a847-ac89-4f81-8a13-f4ae50451d7f.sec
   - vendor/bin/335129cd-41fa-4b53-9797-5ccb202a52d4.sec
   - vendor/bin/4382f063-a6c3-485f-8786-e275512bd2ad.sec
